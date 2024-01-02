@@ -16,6 +16,6 @@ import com.google.android.material.slider.Slider
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.create_account)
+        setContentView(R.layout.relativelayout)
     }
 }
